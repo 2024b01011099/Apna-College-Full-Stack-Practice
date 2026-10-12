@@ -1,2 +1,1 @@
-# Apna-College-DSA-
-optional
+Practice of full stack
